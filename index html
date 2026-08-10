@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Syeda Mysha | Crochet Creations</title>
+</head>
+
+<body style="
+    margin:0;
+    padding:35px 15px;
+    font-family:Georgia,'Times New Roman',serif;
+    background:
+        radial-gradient(circle at 10% 10%,#ffd6e8 0,transparent 28%),
+        radial-gradient(circle at 90% 15%,#d9e9ff 0,transparent 30%),
+        radial-gradient(circle at 15% 90%,#eadcff 0,transparent 30%),
+        radial-gradient(circle at 90% 90%,#fff0b8 0,transparent 28%),
+        #faf7ff;
+">
+
+<!-- OUTER COLORFUL BORDER -->
+
+<div style="
+    max-width:780px;
+    margin:auto;
+    padding:4px;
+    border-radius:32px;
+    background:linear-gradient(
+        135deg,
+        #e83e8c 0%,
+        #7b3fc6 25%,
+        #2687d9 48%,
+        #f5c542 70%,
+        #e83e8c 100%
+    );
+    box-shadow:
+        0 20px 55px rgba(91,58,130,.22);
+">
+
+<!-- GOLD INNER BORDER -->
+
+<div style="
+    padding:3px;
+    border-radius:29px;
+    background:linear-gradient(
+        90deg,
+        #f6d56f,
+        #fff0a8,
+        #d6ad45,
+        #ffe49a
+    );
+">
+
+<!-- INNER COLOR FRAME -->
+
+<div style="
+    padding:4px;
+    border-radius:26px;
+    background:linear-gradient(
+        135deg,
+        #ffb6d5,
+        #c9b1f0,
+        #a9d9f7,
+        #ffe69a
+    );
+">
+
+<div style="
+    position:relative;
+    padding:45px 35px;
+    border-radius:22px;
+    background:#ffffff;
+    text-align:center;
+    overflow:hidden;
+">
+
+
+<!-- CORNER DESIGN -->
+
+<div style="
+    position:absolute;
+    top:14px;
+    left:14px;
+    width:48px;
+    height:48px;
+    border-top:3px solid #e83e8c;
+    border-left:3px solid #7b3fc6;
+    border-radius:20px 0 0 0;
+"></div>
+
+<div style="
+    position:absolute;
+    top:14px;
+    right:14px;
+    width:48px;
+    height:48px;
+    border-top:3px solid #2687d9;
+    border-right:3px solid #f5c542;
+    border-radius:0 20px 0 0;
+"></div>
+
+<div style="
+    position:absolute;
+    bottom:14px;
+    left:14px;
+    width:48px;
+    height:48px;
+    border-bottom:3px solid #f5c542;
+    border-left:3px solid #e83e8c;
+    border-radius:0 0 0 20px;
+"></div>
+
+<div style="
+    position:absolute;
+    bottom:14px;
+    right:14px;
+    width:48px;
+    height:48px;
+    border-bottom:3px solid #7b3fc6;
+    border-right:3px solid #2687d9;
+    border-radius:0 0 20px 0;
+"></div>
+
+
+<!-- TOP ORNAMENT -->
+
+<div style="
+    margin-bottom:18px;
+    font-family:Arial,sans-serif;
+    font-size:20px;
+    letter-spacing:10px;
+    color:#7b3fc6;
+">
+    ❀ ❁ ❀
+</div>
+
+
+<!-- PHOTO -->
+
+<div style="
+    width:235px;
+    height:235px;
+    margin:0 auto 30px;
+    padding:9px;
+    border-radius:50%;
+    background:linear-gradient(
+        135deg,
+        #e83e8c,
+        #7b3fc6,
+        #2687d9,
+        #f5c542,
+        #e83e8c
+    );
+    box-shadow:
+        0 12px 32px rgba(92,62,130,.25),
+        0 0 0 6px #fff1c9;
+">
+
+<img
+src="https://raw.githubusercontent.com/syedamysha55/Crochet/main/doll.jpg"
+alt="Syeda Mysha Crochet Doll"
+style="
+    width:235px;
+    height:235px;
+    border-radius:50%;
+    object-fit:cover;
+    border:6px solid white;
+    box-sizing:border-box;
+">
+
+</div>
+
+
+<!-- NAME -->
+
+<div style="
+    color:#d19d16;
+    font-family:Arial,sans-serif;
+    font-size:11px;
+    letter-spacing:5px;
+    margin-bottom:10px;
+">
+    HANDMADE COLLECTION
+</div>
+
+<h1 style="
+    margin:0;
+    font-size:39px;
+    letter-spacing:1px;
+    background:linear-gradient(
+        90deg,
+        #d62f7f,
+        #7136b9,
+        #237fc8
+    );
+    -webkit-background-clip:text;
+    color:transparent;
+">
+    Syeda Mysha
+</h1>
+
+<p style="
+    margin:10px 0 5px;
+    color:#7136a8;
+    font-family:Arial,sans-serif;
+    font-size:18px;
+    font-weight:bold;
+">
+    My Crochet Creations
+</p>
+
+<p style="
+    margin:8px 0 20px;
+    color:#5c7ba5;
+    font-family:Arial,sans-serif;
+    font-size:12px;
+    letter-spacing:3px;
+">
+    HANDMADE • CREATIVE • UNIQUE
+</p>
+
+
+<!-- COLORFUL DIVIDER -->
+
+<div style="
+    width:210px;
+    height:4px;
+    margin:25px auto 35px;
+    border-radius:20px;
+    background:linear-gradient(
+        90deg,
+        #e83e8c,
+        #7b3fc6,
+        #2687d9,
+        #f5c542
+    );
+">
+</div>
+
+
+<!-- DOLL CARD -->
+
+<div style="
+    margin:20px auto;
+    max-width:600px;
+    padding:26px;
+    text-align:center;
+    border-radius:20px;
+    background:linear-gradient(
+        135deg,
+        #fff0f7,
+        #f1e5ff,
+        #e9f5ff
+    );
+    border:2px solid #e7b6d4;
+    border-top:5px solid #e83e8c;
+    box-shadow:0 9px 24px rgba(80,55,120,.10);
+">
+
+<div style="
+    color:#d19d16;
+    font-family:Arial,sans-serif;
+    font-size:10px;
+    letter-spacing:3px;
+">
+    COLLECTION 01
+</div>
+
+<h2 style="
+    color:#7136a8;
+    font-size:23px;
+    margin:10px 0;
+">
+    Crochet Dolls
+</h2>
+
+<div style="
+    width:50px;
+    height:3px;
+    margin:0 auto 15px;
+    background:#e83e8c;
+    border-radius:10px;
+"></div>
+
+<p style="
+    color:#625d69;
+    font-family:Arial,sans-serif;
+    line-height:1.8;
+    margin:0;
+">
+    Charming handmade crochet dolls created with soft yarn,
+    detailed stitching and carefully finished craftsmanship.
+</p>
+
+</div>
+
+
+<!-- FLOWER CARD -->
+
+<div style="
+    margin:20px auto;
+    max-width:600px;
+    padding:26px;
+    text-align:center;
+    border-radius:20px;
+    background:linear-gradient(
+        135deg,
+        #eef8ff,
+        #f2e8ff,
+        #fff8dc
+    );
+    border:2px solid #b8d8ef;
+    border-top:5px solid #2687d9;
+    box-shadow:0 9px 24px rgba(60,100,150,.10);
+">
+
+<div style="
+    color:#d19d16;
+    font-family:Arial,sans-serif;
+    font-size:10px;
+    letter-spacing:3px;
+">
+    COLLECTION 02
+</div>
+
+<h2 style="
+    color:#426aa0;
+    font-size:23px;
+    margin:10px 0;
+">
+    Crochet Flowers
+</h2>
+
+<div style="
+    width:50px;
+    height:3px;
+    margin:0 auto 15px;
+    background:#2687d9;
+    border-radius:10px;
+"></div>
+
+<p style="
+    color:#625d69;
+    font-family:Arial,sans-serif;
+    line-height:1.8;
+    margin:0;
+">
+    Elegant handmade crochet flowers designed with beautiful
+    yarn work and delicate handcrafted details.
+</p>
+
+</div>
+
+
+<!-- KEYCHAIN CARD -->
+
+<div style="
+    margin:20px auto;
+    max-width:600px;
+    padding:26px;
+    text-align:center;
+    border-radius:20px;
+    background:linear-gradient(
+        135deg,
+        #f5ecff,
+        #eee4ff,
+        #fff0f8
+    );
+    border:2px solid #cbb8e9;
+    border-top:5px solid #7b3fc6;
+    box-shadow:0 9px 24px rgba(90,60,140,.10);
+">
+
+<div style="
+    color:#d19d16;
+    font-family:Arial,sans-serif;
+    font-size:10px;
+    letter-spacing:3px;
+">
+    COLLECTION 03
+</div>
+
+<h2 style="
+    color:#7136a8;
+    font-size:23px;
+    margin:10px 0;
+">
+    Crochet Keychains
+</h2>
+
+<div style="
+    width:50px;
+    height:3px;
+    margin:0 auto 15px;
+    background:#7b3fc6;
+    border-radius:10px;
+"></div>
+
+<p style="
+    color:#625d69;
+    font-family:Arial,sans-serif;
+    line-height:1.8;
+    margin:0;
+">
+    Small and charming handmade crochet keychains crafted
+    with creativity and attention to every detail.
+</p>
+
+</div>
+
+
+<!-- MORE CREATIONS -->
+
+<div style="
+    margin:20px auto;
+    max-width:600px;
+    padding:26px;
+    text-align:center;
+    border-radius:20px;
+    background:linear-gradient(
+        135deg,
+        #fffbea,
+        #fff3d0,
+        #f8e9ff
+    );
+    border:2px solid #efd48a;
+    border-top:5px solid #f5c542;
+    box-shadow:0 9px 24px rgba(180,140,40,.10);
+">
+
+<div style="
+    color:#b88708;
+    font-family:Arial,sans-serif;
+    font-size:10px;
+    letter-spacing:3px;
+">
+    MORE TO DISCOVER
+</div>
+
+<h2 style="
+    color:#806020;
+    font-size:23px;
+    margin:10px 0;
+">
+    More Handmade Creations
+</h2>
+
+<div style="
+    width:50px;
+    height:3px;
+    margin:0 auto 15px;
+    background:#f5c542;
+    border-radius:10px;
+"></div>
+
+<p style="
+    color:#625d69;
+    font-family:Arial,sans-serif;
+    line-height:1.8;
+    margin:0;
+">
+    Every piece is handmade with patience, creativity and
+    genuine care, making each creation uniquely special.
+</p>
+
+</div>
+
+
+<!-- CONTACT -->
+
+<div style="
+    margin:35px auto 0;
+    padding:30px 20px;
+    max-width:600px;
+    text-align:center;
+    border-top:2px solid #ead5ef;
+">
+
+<div style="
+    color:#c49519;
+    font-family:Arial,sans-serif;
+    font-size:10px;
+    letter-spacing:4px;
+">
+    GET IN TOUCH
+</div>
+
+<h2 style="
+    color:#6f3298;
+    font-size:27px;
+    margin:10px 0 20px;
+">
+    Syeda Mysha
+</h2>
+
+
+<!-- INSTAGRAM -->
+
+<div style="
+    color:#625d69;
+    font-family:Arial,sans-serif;
+    margin:13px 0;
+">
+
+Instagram&nbsp;&nbsp;|&nbsp;&nbsp;
+
+<a
+href="https://www.instagram.com/_syeda_mysha/"
+target="_blank"
+style="
+    color:#d62f7f;
+    text-decoration:none;
+    font-weight:bold;
+">
+    @_syeda_mysha
+</a>
+
+</div>
+
+
+<!-- PHONE -->
+
+<div style="
+    color:#625d69;
+    font-family:Arial,sans-serif;
+    margin:13px 0;
+    white-space:nowrap;
+">
+
+Phone&nbsp;&nbsp;|&nbsp;&nbsp;
+
+<a
+href="tel:+8801300921004"
+style="
+    color:#237fc8;
+    text-decoration:none;
+    font-weight:bold;
+">
+    +880 1300-921004
+</a>
+
+</div>
+
+
+<!-- FLOWER STYLE DECORATION -->
+
+<div style="
+    margin:28px auto 12px;
+    font-size:22px;
+    letter-spacing:6px;
+    background:linear-gradient(
+        90deg,
+        #e83e8c,
+        #7b3fc6,
+        #2687d9,
+        #f5c542
+    );
+    -webkit-background-clip:text;
+    color:transparent;
+">
+    ❀ ❁ ❀
+</div>
+
+<div style="
+    width:140px;
+    height:2px;
+    margin:0 auto 15px;
+    background:linear-gradient(
+        90deg,
+        transparent,
+        #e83e8c,
+        #7b3fc6,
+        #2687d9,
+        #f5c542,
+        transparent
+    );
+">
+</div>
+
+<p style="
+    margin:0;
+    color:#63347d;
+    font-size:16px;
+    font-weight:bold;
+    letter-spacing:1px;
+">
+    Handmade with Love & Creativity
+</p>
+
+<p style="
+    margin:8px 0 0;
+    color:#8a7894;
+    font-family:Arial,sans-serif;
+    font-size:10px;
+    letter-spacing:3px;
+">
+    CRAFTED WITH CARE
+</p>
+
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+</body>
+</html>
